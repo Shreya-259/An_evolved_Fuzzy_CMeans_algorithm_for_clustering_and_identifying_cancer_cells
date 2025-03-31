@@ -11,3 +11,7 @@ clustering set and other methods demonstrates the superiority of our proposed me
 accurately identifying cancer images. Our results show that the modification of the Fuzzy C
 means clustering algorithm can improve the performance of image clustering algorithms in skin 
 cancer diagnosis and classification. 
+
+# Dataset
+Due to size limitations, the dataset is not included in this repository.  
+You can download it from https://www.kaggle.com/datasets/riyaelizashaju/skin-disease-classification-image-dataset
